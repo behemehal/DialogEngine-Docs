@@ -2,9 +2,9 @@
 
 | Package                 | Version     | API Version |
 | :---------------------: | :---------: | :---------: |
-| DialogEngine JS SDK     | v1.0.0-beta | v1          |
+| [DialogEngine JS SDK](https://github.com/behemehal/DialogEngine-JS)     | v1.1.8-beta | v1          |
 | DialogEngine Worker     | v1.0.0-beta | v1          |
 
 ## Languages
-- [Turkish 75%](./tr/index)
-- [English 0%](./en/index)
+- [Turkish 80%](./tr/index)
+- [English 22%](./en/index)

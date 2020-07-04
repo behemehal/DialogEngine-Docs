@@ -8,7 +8,7 @@
   - [DialogEngine Worker](./worker)
 - [Asistan Sekmesi](./assistant)
 - [Diyaloglar Sekmesi](./dialogs)
-- [Örnekler](./examples/index)
+- Örnekler **Tamamlanmadı**
 - [Katkı](#katkı)
 - [Versiyonlama](#versiyonlama)
 - [Lisans](#lisans)
@@ -27,7 +27,7 @@ Görüşlerinizi fikirlerinizi önemsiyoruz, eğer katkıda bulunmak istediğini
 
 
 # Versiyonlama
-Bu kütüphane [Semantic Versiyonlama](https://semver.org/) kullanıyor. Gelen özellik ve güvenlik güncellemeleri aynı jenerasyon ile geriye dönük uyumluluk sağlar
+Bu proje [Semantic Versiyonlama](https://semver.org/) kullanıyor. Gelen özellik ve güvenlik güncellemeleri aynı jenerasyon ile geriye dönük uyumluluk sağlar
 
 # [Lisans](../LICENSE)
 
