@@ -1,5 +1,7 @@
 # [DialogEngine JavaScript SDK](https://github.com/behemehal/DialogEngine-JS)
 
+`npm i dialogengine-js`
+
 ### Construct Assistant
 ```js
 var assisant = new DialogEngineSDK('clientid', 'language');
@@ -26,3 +28,5 @@ conversation.welcomeIntent() -> Promise.<Response>
 ```js
 conversation.talk(message) -> Promise.<Response>
 ```
+
+### [Talk.js](./talk.js)
