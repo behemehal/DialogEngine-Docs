@@ -2,12 +2,12 @@
 
 ### İçindekiler
 - [Başlarken](#başlarken)
-  - [Asistan Oluşturma](./creatingAssistant)   
-  - [Diyalog Oluşturma](./creatingDialogs)
-  - [DialogEngine SDK'ları](./sdk)
-  - [DialogEngine Worker](./worker)
-- [Asistan Sekmesi](./assistant)
-- [Diyaloglar Sekmesi](./dialogs)
+  - [Asistan Oluşturma](./creatingAssistant.md)   
+  - [Diyalog Oluşturma](./creatingDialogs.md)
+  - [DialogEngine SDK'ları](./sdk.md)
+  - [DialogEngine Worker](./worker.md)
+- [Asistan Sekmesi](./assistant.md)
+- [Diyaloglar Sekmesi](./dialogs.md)
 - Örnekler **Tamamlanmadı**
 - [Katkı](#katkı)
 - [Versiyonlama](#versiyonlama)

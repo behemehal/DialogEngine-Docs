@@ -14,4 +14,4 @@ Ardından çıkan sayfada `Yeni Asistan Oluştur` butonuna basın
 
 ![assistantsPage](./src/content5.png)
 
-Bir sonraki adım [Diyalog Oluşturma](./creatingDialogs)
+Bir sonraki adım [Diyalog Oluşturma](./creatingDialogs.md)

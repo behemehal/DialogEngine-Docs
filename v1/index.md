@@ -6,5 +6,5 @@
 | DialogEngine Worker     | v1.0.0-beta | v1          |
 
 ## Languages
-- [Turkish 80%](./tr/index)
-- [English 22%](./en/index)
+- [Turkish 80%](./tr/index.md)
+- [English 22%](./en/index.md)
